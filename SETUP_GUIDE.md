@@ -19,7 +19,7 @@ If you haven't already, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/AyhamJo7/ModernHotel.git
-cd modern-hotel-management
+cd ModernHotel
 ```
 
 ### 2. Set Up the Database
