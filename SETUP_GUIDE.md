@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
 If you haven't already, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/modern-hotel-management.git
+git clone https://github.com/AyhamJo7/ModernHotel.git
 cd modern-hotel-management
 ```
 
