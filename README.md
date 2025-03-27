@@ -137,7 +137,7 @@ The application implements several design patterns to ensure maintainability, te
 
 2. Open the solution in Visual Studio:
    ```
-   cd modern-hotel-management
+   cd ModernHotel
    start ModernHotel.sln
    ```
 
