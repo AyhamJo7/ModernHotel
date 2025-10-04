@@ -1,4 +1,5 @@
 # Modern Hotel Management System
+![My Project Logo](modernhotel.png)
 
 A comprehensive hotel management system built with C# and .NET, following Clean Architecture principles and modern software development best practices.
 
